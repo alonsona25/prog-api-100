@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AppHost/AppHost.csproj" />
+  <Project Path="Games.Api/Games.Api.csproj" />
+  <Project Path="Games.Tests/Games.Tests.csproj" Id="bdc04011-455e-460b-bd5d-d2380fadc090" />
+  <Project Path="ServiceDefaults/ServiceDefaults.csproj" />
+</Solution>

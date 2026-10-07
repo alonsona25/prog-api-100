@@ -1,0 +1,6 @@
+@DemoOne.Api_HostAddress = https://localhost:1337
+
+GET {{DemoOne.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
